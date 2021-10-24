@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Core Competencies
+  * _Python_
+  * _Azure_
+  * _ARM_
+  * _**Bicep**_
